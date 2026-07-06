@@ -1,0 +1,29 @@
+# Secrets & local config – never commit these
+.env
+.env.example
+local.settings.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Azure Functions
+bin/
+obj/
+appsettings.json
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
