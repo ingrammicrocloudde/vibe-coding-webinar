@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "AZURE_FOUNDRY_PROJECT_ENDPOINT": "https://vibe-coding-webinar-pro-resource.services.ai.azure.com/api/projects/vibe-coding-webinar-project",
+    "AZURE_FOUNDRY_MODEL_DEPLOYMENT": "gpt-5-mini"
+  }
+}
+

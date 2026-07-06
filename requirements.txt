@@ -1,0 +1,16 @@
+# Azure Functions runtime
+azure-functions
+
+# FastAPI (lokale Entwicklung / main.py)
+fastapi
+uvicorn[standard]
+jinja2
+python-multipart
+
+# Azure Foundry
+azure-ai-projects>=1.0.0b11
+azure-ai-inference>=1.0.0b9
+azure-identity
+
+# Hilfspakete
+python-dotenv
