@@ -15,7 +15,6 @@ enthält alle Inhalte für das 50-minütige Live-Webinar 'Vibe Coding mit GitHub
 ● Direkter Bezug zum realen Vertriebsprozess (Angebots-/SOW-Erstellung)
 ● Zeigt, dass mit wenig Custom-Code echte interne Tools entstehen
 ● Foundry-Konsum und Serverless-Compute nutzungsbasiert – passt zum CSP/NCE-Pricing
-● Direkt als Partner-Demo oder Accelerate-PoC positionierbar
 
 ## Die Prompts
 
