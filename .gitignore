@@ -21,9 +21,11 @@ obj/
 appsettings.json
 
 # IDE
-.vscode/
+
 .idea/
 
 # OS
 .DS_Store
 Thumbs.db
+
+.python_packages
